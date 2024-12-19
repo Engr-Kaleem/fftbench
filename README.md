@@ -1,5 +1,5 @@
-#  fouriior transform bench marking on ARM processor running RT linux(raspberry pi)
-## Results 
+#  Fourier transform (FT) bench marking on ARM processor running RT linux(raspberry pi)
+## Results for ARM cortex A72  raspberry PI 4b 
 FFT of size 1024 completed in 0.000078 seconds on CPU core 3.
 
 Variable Sizes and Types:
